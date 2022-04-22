@@ -1,0 +1,25 @@
+print
+plus 67
+print
+minus 2
+print
+right 5
+left 3
+plus 70
+left 2
+print 5
+right 10
+plus 10
+print
+right
+plus 72
+print
+right
+plus 69
+print
+right
+plus 76
+print
+print
+plus 3
+print

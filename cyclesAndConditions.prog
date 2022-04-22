@@ -1,0 +1,65 @@
+plus 97
+
+for 26
+{
+print
+plus
+}
+
+plus
+
+if
+{
+print
+print
+print
+}
+
+right
+
+if
+{
+left
+print
+print
+print
+}
+
+left
+minus 2
+right
+plus 26
+
+while
+{
+left
+print
+minus
+right
+minus
+}
+
+right 10
+plus 10
+print
+right 10
+
+for 5
+{
+plus 5
+while
+{
+plus 96
+print
+minus 96
+if
+{
+right 10
+plus 30
+print
+left 10
+}
+minus
+}
+right
+}

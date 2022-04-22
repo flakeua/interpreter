@@ -1,0 +1,8 @@
+//
+// Created by Dima on 22.12.2021.
+//
+
+#ifndef INTERPRETER_EXEPTIONS_H
+#define INTERPRETER_EXEPTIONS_H
+
+#endif // INTERPRETER_EXEPTIONS_H
