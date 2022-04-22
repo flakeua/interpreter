@@ -1,3 +1,5 @@
+## Basic interpreter with basic madeup programming language
+
 For some tests to run you have to put input.txt into the cmake-build-debug directory.
 To disable tests and enable the interpreter make isTesting bool in main() function false and choose interpreter run profile in clion.
 
